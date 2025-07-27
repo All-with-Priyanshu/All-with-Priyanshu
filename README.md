@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello, I'm Priyanshu Paintola
 
-<!--
-**All-with-Priyanshu/All-with-Priyanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student and an aspiring software developer, passionate about technology and the web.
 
-Here are some ideas to get you started:
+I enjoy exploring and learning new and complex things — there’s always something exciting around the corner.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack & Skills
+
+- Programming: C, C++, Python  
+- Web: HTML, CSS, JavaScript (learning)  
+- Tools: VS Code, Git, GitHub
+
+---
+
+## Currently Learning
+
+- Full-Stack Web Development  
+- Data Structures and Algorithms  
+- Version Control with Git
+
+---
+
+## Goals
+
+- Build and contribute to real-world projects  
+- Contribute to open-source  
+- Become a full-stack software developer
+
+---
+
+## Let's Connect
+
+Feel free to explore my repositories, check out my projects, and connect with me.
