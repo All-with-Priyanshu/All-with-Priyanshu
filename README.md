@@ -1,34 +1,34 @@
-# Hello, I'm Priyanshu Paintola
-
-I am a student and an aspiring software developer, passionate about technology and the web.
-
-I enjoy exploring and learning new and complex things — there’s always something exciting around the corner.
+# Hi there, I'm Priyanshu
+Student| Aspiring software developer| Machience learning
 
 ---
 
-## Tech Stack & Skills
+## About me
 
-- Programming: C, C++, Python  
-- Web: HTML, CSS, JavaScript (learning)  
-- Tools: VS Code, Git, GitHub
-
----
-
-## Currently Learning
-
-- Full-Stack Web Development  
-- Data Structures and Algorithms  
-- Version Control with Git
+- I'm a student passionate about Machience Learning and Technology.
+- I have interest in learning about new Technologies and facing some complex problems.
+- Currently honoring my skills in:-
+   - Java script
+   - C Programming
+   - java
 
 ---
 
-## Goals
+## What I am working On
 
 - Build and contribute to real-world projects  
 - Contribute to open-source  
 - Become a full-stack software developer
+- Became expert in Machiene Learning
 
 ---
+
+## My Hobbies
+
+- Doing experiments with digit applications
+- Diving into Technologies and concept
+- Exitement to learn new skills
+- Talking with peoples to exploring their knowledge
 
 ## Let's Connect
 
