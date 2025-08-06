@@ -1,5 +1,5 @@
 # Hi there, I'm Priyanshu
-Student| Aspiring software developer| Machience learning
+Student| Aspiring software developer| Machine learning
 
 ---
 
